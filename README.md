@@ -16,3 +16,9 @@ stem cells · neurotech · decision tools · information, knowledge, and educati
 
 ## Projects
 [in progress - private]
+
+## Small Machines
+*Small utilities, local pipelines, and other disproportionately useful machinery.*
+
+**[yt-transcript-generator](https://github.com/sonya-yu-z/yt-transcript-generator)**  
+Local YouTube transcript preprocessing for shoggoth ingestion. Retrieves existing captions when available, falls back to local speech-to-text, and dumps clean `.txt` files for downstream analysis without wasting frontier-model tokens on retrieval plumbing.
